@@ -1,4 +1,4 @@
-# React Users Avatar
+# React confirmation dialog box
 ## Install
 ```
 npm install react-confirmation --save
